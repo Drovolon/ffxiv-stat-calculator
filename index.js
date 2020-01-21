@@ -389,7 +389,7 @@ function StatList() {
             return m('body', [
                 m('h1', 'FFXIV Stat Calculator'),
                 m('p', m.trust(`Below you can enter FFXIV stats to see their
-                        corresponding values. These calculations were taken from the
+                        corresponding values at level 80. These calculations were taken from the
                         <a href='http://theoryjerks.akhmorning.com/'>Theoryjerks</a>
                         website, and all credit goes to them.`)),
                 m('p', m.trust(`View source code and suggest edits
